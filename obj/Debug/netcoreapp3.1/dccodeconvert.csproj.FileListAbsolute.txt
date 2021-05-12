@@ -1,0 +1,15 @@
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\bin\Debug\netcoreapp3.1\dccodeconvert.exe
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\bin\Debug\netcoreapp3.1\dccodeconvert.deps.json
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\bin\Debug\netcoreapp3.1\dccodeconvert.runtimeconfig.json
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\bin\Debug\netcoreapp3.1\dccodeconvert.runtimeconfig.dev.json
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\bin\Debug\netcoreapp3.1\dccodeconvert.dll
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\bin\Debug\netcoreapp3.1\dccodeconvert.pdb
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.csprojAssemblyReference.cache
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.Form1.resources
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.csproj.GenerateResource.cache
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.AssemblyInfoInputs.cache
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.AssemblyInfo.cs
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.csproj.CoreCompileInputs.cache
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.dll
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.pdb
+C:\Users\Fly\Desktop\Dc code converter\dccodeconvert\dccodeconvert\obj\Debug\netcoreapp3.1\dccodeconvert.genruntimeconfig.cache
